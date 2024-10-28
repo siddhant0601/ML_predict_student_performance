@@ -1,0 +1,10 @@
+with outliers-
+Average accuracy for Logistic Regression: 0.7503281599876457
+Average accuracy for Naive Bayes: 0.7470079530538184
+Average accuracy for Decision Tree: 0.6600455563276967
+Average accuracy for Random Forest: 0.7269901938074279
+without outliers-
+Average accuracy for Logistic Regression: 0.7393144258198364
+Average accuracy for Naive Bayes: 0.6736332130985218
+Average accuracy for Decision Tree: 0.65614022679586
+Average accuracy for Random Forest: 0.7230237876323172
